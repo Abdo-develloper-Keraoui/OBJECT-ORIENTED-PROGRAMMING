@@ -2,6 +2,7 @@
 
 Hello! This is my Java practice project for learning Object Oriented Programming.  
 I am a beginner and I made small exercises to understand classes, objects, inheritance, and interfaces.
+And to practice Encapsulation, inheritance, polymorphism and abstraction firsthand.
 
 ## What is inside
 - Chapter exercises like shapes, notifications, bank account, and books  
